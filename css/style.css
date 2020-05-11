@@ -1,0 +1,63 @@
+body {
+    font-family: OpenSans, sans;
+    color: #636363;
+}
+h1, h2, h3, h4 {
+    color: #363636;
+}
+h4 {
+    margin: 1rem 0;
+}
+ul {
+    margin: 1rem 0;
+}
+a, a:hover, a:visited, a:focus {
+    color: rgb(1, 174, 253);
+}
+
+.remark-slide-content {
+    font-size: 2rem;
+    padding: 1rem 4rem;
+}
+
+.list {
+    font-size: 3rem;
+}
+.list ul {
+    padding-left: 0;
+    }
+.list li {
+    list-style: none;
+    padding: 0;
+}
+.vspace {
+    display: block;
+    height: 1rem;
+}
+
+.fig {
+    position: absolute;
+}
+.fig img {
+    display: block;
+    width: 100%;
+}
+
+.ref p {
+    position: absolute;
+    font-size: 1rem;
+    bottom: 1rem;
+}
+
+.white {
+    color: white;
+}
+.red {
+    background-color: rgb(255, 100, 96);
+}
+.grey {
+    background-color: rgb(68, 79, 96);
+}
+.blue {
+    background-color: rgb(1, 174, 253);
+}
