@@ -61,3 +61,11 @@ a, a:hover, a:visited, a:focus {
 .blue {
     background-color: rgb(1, 174, 253);
 }
+.nonumber .remark-slide-number {
+    opacity: 0;
+}
+
+.project-image {
+    display: block;
+    height: 400px;
+}
