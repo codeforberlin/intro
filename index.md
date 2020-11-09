@@ -13,7 +13,7 @@ class: center, middle
 <style>
 .fig.open {
     right: 4rem;
-    width: 21.5rem;
+    width: 20rem;
 }
 .column.oklab {
     width: 44rem;
@@ -29,7 +29,7 @@ In the OK Lab, we work on **digital tools**  utilizing Open Data from **public e
 
 We also **connect** the community with the local government and act as contact for the different stakeholders.
 
-We use **different formats** to reach people, educate them about Open Data and Civic Tech and offer a contact point for the topic in Berlin.
+We use **different formats** to reach people and educate them about Open Data and Civic Tech.
 ]
 
 ---
