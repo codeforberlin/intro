@@ -13,7 +13,7 @@ class: center, middle
 <style>
 .fig.open {
     right: 4rem;
-    width: 21rem;
+    width: 21.5rem;
 }
 .column.oklab {
     width: 44rem;
@@ -29,34 +29,35 @@ In the OK Lab, we work on **digital tools**  utilizing Open Data from **public e
 
 We also **connect** the community with the local government and act as contact for the different stakeholders.
 
-**Open Labs**, **Hack Nights**, and **full day events**, help us reaching out and educate on Open Data and Civic Tech.
+We use **different formats** to reach people, educate them about Open Data and Civic Tech and offer a contact point for the topic in Berlin.
 ]
 
 ---
 
 <style>
-.berlin-map {
-    position: absolute;
-    right: 2rem;
+.fig.wurst {
+    right: 4rem;
+    width: 27rem;
 }
 </style>
 
 ## Open Knowledge Lab Berlin
 
-.berlin-map[![codefor.de](img/wurst.png)]
+.fig.wurst[![codefor.de](img/wurst.png)]
+
+#### Hacknights
+
+* Monday, 19:00-22:00
+* ~~WikiBär, Köpenicker Straße 45~~
 
 #### Open Lab
 
 * every second Monday of the month
-* 19:00-22:00
-* Wikimedia, Tempelhofer Ufer 23/24
+* ~~Wikimedia, Tempelhofer Ufer 23/24~~
 
-#### Hacknights
+#### Open data day
 
-* every other Monday
-* 19:00-22:00
-* WikiBär, Köpenicker Straße 45
-* near U Heinrich-Heine-Straße
+* once a year, first Saturday in March
 
 ---
 
@@ -65,6 +66,20 @@ background-image: url(img/berlin-map.png)
 .ref[
     [© OpenStreetMap contributors](https://www.openstreetmap.org/copyright)
 ]
+
+---
+
+## What are we working on
+
+List of older projects: [codefor.de/berlin](https://codefor.de/berlin)
+
+Some Highlights:
+
+* [Wo ist Markt?](https://codefor.de/projekte/be-woistmarkt/)
+* [Street Trees API](https://codefor.de/projekte/be-street-trees-api/)
+* [VBB-API](https://codefor.de/projekte/vbb-api/)
+
+We are currently immersing ourselves in the **semantic web** and trying to make already public data sets available in a **best practice** way.
 
 ---
 
@@ -79,12 +94,11 @@ background-image: url(img/berlin-map.png)
 
 .communication[![slack](img/slack.png)]
 
-[openknowledgegermany.slack.com](https://openknowledgegermany.slack.com) (ask me for an invite)
+[openknowledgegermany.slack.com](https://openknowledgegermany.slack.com) (ask us for an invite)
 
 .communication[![octocat](img/Octocat.png) ![github](img/GitHub_Logo.png)]
 
-[github.com/codeforberlin](https://github.com/codeforberlin)  
-[github.com/codeforberlin/tickets/issues](https://github.com/codeforberlin/tickets/issues)
+[github.com/codeforberlin](https://github.com/codeforberlin)
 
 ---
 
