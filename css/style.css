@@ -34,32 +34,80 @@ a, a:hover, a:visited, a:focus {
     display: block;
     height: 1rem;
 }
-
-.fig {
-    position: absolute;
-}
-.fig img {
-    display: block;
+.w100 img {
+    display: inline-block;
     width: 100%;
 }
-
+.w75 img {
+    display: inline-block;
+    width: 75%;
+}
+.w66 img {
+    display: inline-block;
+    width: 66%;
+}
+.w50 img {
+    display: inline-block;
+    width: 50%;
+}
+.abs {
+    position: absolute;
+}
+.abs p {
+    margin: 0;
+}
+.abs img {
+    width: 100%;
+    display: block;
+}
+.shadow img {
+    box-shadow: 0 0 5px silver;
+}
 .ref p {
     position: absolute;
     font-size: 1rem;
     bottom: 1rem;
 }
 
-.white {
+p.white {
+    background-color: white;
+}
+p.blue {
+    background-color: #00A9FA;
+}
+p.red {
+    background-color: #FF645F;
+}
+p.green {
+    background-color: #00DA88;
+}
+p.cyan {
+    background-color: #57CFC8;
+}
+p.grey {
+    background-color: #F2F2F2;
+}
+
+span.white {
     color: white;
 }
-.red {
-    background-color: rgb(255, 100, 96);
+span.blue {
+    color: #00A9FA;
 }
-.grey {
-    background-color: rgb(68, 79, 96);
+span.red {
+    color: #FF645F;
 }
-.blue {
-    background-color: rgb(1, 174, 253);
+span.green {
+    color: #00DA88;
+}
+span.cyan {
+    color: #57CFC8;
+}
+span.grey {
+    color: #F2F2F2;
+}
+.b {
+    font-weight: bold;
 }
 .nonumber .remark-slide-number {
     opacity: 0;

@@ -11,7 +11,7 @@ class: center, middle
 ---
 
 <style>
-.fig.open {
+.abs.open {
     right: 4rem;
     width: 20rem;
 }
@@ -22,20 +22,20 @@ class: center, middle
 
 ## Open Knowledge Lab Berlin
 
-.fig.open[![codefor.de](img/open.png)]
+.abs.open[![codefor.de](img/open.png)]
 
 .column.oklab[
-In the OK Lab, we work on **digital tools**  utilizing Open Data from **public entities**, **community projects**, and **companies**.
+In the OK Lab, we work on .red.b[digital tools]  utilizing Open Data from .blue.b[public entities], .green.b[community projects], and .cyan.b[companies].
 
-We also **connect** the community with the local government and act as contact for the different stakeholders.
+We also .red.b[connect] the community with the local government and act as contact for the different stakeholders.
 
-We use **different formats** to reach people and educate them about Open Data and Civic Tech.
+We use different formats to .red.b[reach people] and educate them about Open Data and Civic Tech.
 ]
 
 ---
 
 <style>
-.fig.wurst {
+.abs.wurst {
     right: 4rem;
     width: 27rem;
 }
@@ -43,23 +43,56 @@ We use **different formats** to reach people and educate them about Open Data an
 
 ## Open Knowledge Lab Berlin
 
-.fig.wurst[![codefor.de](img/wurst.png)]
+.abs.wurst[![codefor.de](img/wurst.png)]
 
 #### Hacknights
 
 * Monday, 19:00-22:00
-* ~~WikiBär, Köpenicker Straße 45~~
+* WikiBär, Köpenicker Straße 45
 
 #### Open Lab
 
 * every second Monday of the month
-* ~~Wikimedia, Tempelhofer Ufer 23/24~~
+* Wikimedia, Tempelhofer Ufer 23/24
 
-#### Open data day
+#### Berlin open data day
 
 * once a year, first Saturday in March
 
 ---
+
+<style>
+.abs.corona {
+    right: 4rem;
+    width: 27rem;
+}
+</style>
+
+## Open Knowledge Lab Berlin
+
+.abs.wurst[![codefor.de](img/corona.jpg)]
+
+#### Hacknights
+
+* Monday, .red.b[18:00-20:00]
+* [meet.okfn.de/ok-lab-berlin](https://meet.okfn.de/ok-lab-berlin)
+
+#### Open Lab
+
+* every second Monday of the month
+* [bbb.ulm.dev/b/ok-lab-berlin](https://bbb.ulm.dev/b/ok-lab-berlin)
+
+#### ~~Berlin open data day~~
+
+* ~~once a year, first Saturday in March~~
+
+.ref[
+    Photo by <a href="https://unsplash.com/@cdc">CDC</a> on <a href="https://unsplash.com/s/photos/corona">Unsplash</a>
+]
+
+---
+
+exclude: true
 
 background-image: url(img/berlin-map.png)
 
@@ -69,17 +102,40 @@ background-image: url(img/berlin-map.png)
 
 ---
 
-## What are we working on
+.vspace[]
+.center.w100.shadow[![codefor.de](img/jedeschule.png)]
 
-List of older projects: [codefor.de/berlin](https://codefor.de/berlin)
+.ref[
+    [jedeSchule.de](https://jedeschule.de), [github.com/datenschule](https://github.com/datenschule)
+]
 
-Some Highlights:
+---
 
-* [Wo ist Markt?](https://codefor.de/projekte/be-woistmarkt/)
-* [Street Trees API](https://codefor.de/projekte/be-street-trees-api/)
-* [VBB-API](https://codefor.de/projekte/vbb-api/)
+.vspace[]
+.center.w100.shadow[![codefor.de](img/geoportal.png)]
 
-We are currently immersing ourselves in the **semantic web** and trying to make already public data sets available in a **best practice** way.
+.ref[
+    [Daten aus dem Geoportal Berlin](https://www.codefor.de/projekte/fis-broker/), [berlin.codefor.de/maps](https://berlin.codefor.de/maps/), [berlin.codefor.de/luftbilder](https://berlin.codefor.de/luftbilder/)
+]
+
+---
+
+.vspace[]
+.vspace[]
+.center.w75.shadow[![codefor.de](img/vbb-cli.png)]
+
+.ref[
+    [VBB-API-Schnittstelle](https://codefor.de/projekte/vbb-api/), [Übersicht über JavaScript-VBB-Module](https://github.com/derhuerst/vbb-modules)
+]
+
+---
+
+.vspace[]
+.center.w100.shadow[![codefor.de](img/wo-ist-markt.png)]
+
+.ref[
+    [Wo ist Markt?](https://codefor.de/projekte/be-woistmarkt/), [wo-ist-markt.de](https://wo-ist-markt.de), [github.com/wo-ist-markt](https://github.com/wo-ist-markt)
+]
 
 ---
 
@@ -90,7 +146,7 @@ We are currently immersing ourselves in the **semantic web** and trying to make 
 }
 </style>
 
-## Communication
+List of older projects: [codefor.de/berlin](https://codefor.de/berlin)
 
 .communication[![slack](img/slack.png)]
 
@@ -99,6 +155,8 @@ We are currently immersing ourselves in the **semantic web** and trying to make 
 .communication[![octocat](img/Octocat.png) ![github](img/GitHub_Logo.png)]
 
 [github.com/codeforberlin](https://github.com/codeforberlin)
+
+In 2021 we want to learn more about .cyan.b[semantic web] and try to make already public data sets available in a .green.b[best practice] way.
 
 ---
 
@@ -122,7 +180,7 @@ background-size: cover
 
 ## Code for all
 
-.fig.codeforall[![codeforall](img/codeforall.png)]
+.abs.codeforall[![codeforall](img/codeforall.png)]
 
 .ref[
     [codeforall.org](https://codeforall.org)
@@ -145,14 +203,14 @@ background-size: cover
 }
 </style>
 
-## Thanks!
+## Support
 
-.fig.okf[
+.abs.okf[
     ![okf](img/logo_black_okfde.png)  
     [Open Knowledge Foundation](https://okfn.de)
 ]
 
-.fig.wikimedia[
+.abs.wikimedia[
     ![wikimedia](img/Wikimedia-logo.svg)  
     [Wikimedia Deutschland](https://www.wikimedia.de)
 ]
