@@ -1,4 +1,4 @@
-class: center, middle
+class: center, middle, nonumber
 
 ![codefor.de](img/CFG_logo.svg)
 
@@ -139,6 +139,15 @@ background-image: url(img/berlin-map.png)
 
 ---
 
+.vspace[]
+.center.w100.shadow[![codefor.de](img/wo-ist-testzentrum.png)]
+
+.ref[
+    [wo-ist-markt.de](https://wo-ist-testzentrum.de), [github.com/wo-ist-testzentrum](https://github.com/CodeforLeipzig/wo-ist-testzentrum)
+]
+
+---
+
 <style>
 .communication img {
     margin-top: 1rem;
@@ -214,3 +223,9 @@ background-size: cover
     ![wikimedia](img/Wikimedia-logo.svg)  
     [Wikimedia Deutschland](https://www.wikimedia.de)
 ]
+
+---
+
+class: center, middle, nonumber
+
+![codefor.de](img/wurst.png)
