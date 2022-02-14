@@ -53,13 +53,15 @@ We use different formats to .red.b[reach people] and educate them about Open Dat
 #### Open Lab
 
 * every second Monday of the month
-* Wikimedia, Tempelhofer Ufer 23/24
+* [bbb.ulm.dev/b/ok-lab-berlin](https://bbb.ulm.dev/b/ok-lab-berlin)
 
 #### Berlin open data day
 
 * once a year, first Saturday in March
 
 ---
+
+exclude: true
 
 <style>
 .abs.corona {
@@ -92,8 +94,6 @@ We use different formats to .red.b[reach people] and educate them about Open Dat
 
 ---
 
-exclude: true
-
 background-image: url(img/berlin-map.png)
 
 .ref[
@@ -101,6 +101,8 @@ background-image: url(img/berlin-map.png)
 ]
 
 ---
+
+exclude: true
 
 .vspace[]
 .center.w100.shadow[![codefor.de](img/jedeschule.png)]
@@ -111,6 +113,8 @@ background-image: url(img/berlin-map.png)
 
 ---
 
+exclude: true
+
 .vspace[]
 .center.w100.shadow[![codefor.de](img/geoportal.png)]
 
@@ -119,6 +123,8 @@ background-image: url(img/berlin-map.png)
 ]
 
 ---
+
+exclude: true
 
 .vspace[]
 .vspace[]
@@ -130,6 +136,8 @@ background-image: url(img/berlin-map.png)
 
 ---
 
+exclude: true
+
 .vspace[]
 .center.w100.shadow[![codefor.de](img/wo-ist-markt.png)]
 
@@ -138,6 +146,8 @@ background-image: url(img/berlin-map.png)
 ]
 
 ---
+
+exclude: true
 
 .vspace[]
 .center.w100.shadow[![codefor.de](img/wo-ist-testzentrum.png)]
@@ -149,13 +159,19 @@ background-image: url(img/berlin-map.png)
 ---
 
 <style>
+.web img {
+    margin-bottom: -1rem;
+    height: 7rem;
+}
 .communication img {
     margin-top: 1rem;
     height: 5rem;
 }
 </style>
 
-List of older projects: [codefor.de/berlin](https://codefor.de/berlin)
+.web[![web](img/wurst.png)]
+
+[codefor.de/berlin](https://codefor.de/berlin), [Get Together](https://gettogether.community/code-for-berlin/), [meetup](https://www.meetup.com/OK-Lab-Berlin/), [@codeforbe](https://twitter.com/codeforbe)
 
 .communication[![slack](img/slack.png)]
 
@@ -165,18 +181,12 @@ List of older projects: [codefor.de/berlin](https://codefor.de/berlin)
 
 [github.com/codeforberlin](https://github.com/codeforberlin)
 
-In 2021 we want to learn more about .cyan.b[semantic web] and try to make already public data sets available in a .green.b[best practice] way.
+<!-- In 2021 we want to learn more about .cyan.b[semantic web] and try to make already public data sets available in a .green.b[best practice] way. -->
 
 ---
 
 background-image: url(img/germany-map.png)
-background-size: cover
-
-## Code for Germany
-
-.ref[
-    [codefor.de](https://codefor.de)
-]
+background-size: contain
 
 ---
 

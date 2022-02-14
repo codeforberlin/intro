@@ -1,5 +1,18 @@
 class: middle, center, nonumber
 
+![codefor.de](img/CFG_logo.svg)
+
+## Welcome to the Berlin Open Knowledge Lab
+
+.list[
+* we start around 19:05
+]
+
+---
+
+class: middle, center, nonumber
+exclude: true
+
 ## 👋 Welcome to the Berlin Open Knowledge Lab
 
 .list[
@@ -9,14 +22,3 @@ class: middle, center, nonumber
 * 📶 guests@wmde 🗝 WMDE2324
 ]
 
----
-
-class: middle, center, nonumber
-
-![codefor.de](img/CFG_logo.svg)
-
-## Welcome to the Berlin Open Knowledge Lab
-
-.list[
-* we start around 19:05
-]

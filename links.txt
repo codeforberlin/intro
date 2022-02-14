@@ -1,4 +1,17 @@
-OK Lab berlin:
+Links von meinen Slides:
+https://codefor.de/berlin
+https://gettogether.community/code-for-berlin
+https://www.meetup.com/OK-Lab-Berlin
+https://twitter.com/codeforbe
+https://github.com/codeforberlin
+https://codefor.de
+https://codeforall.org
+https://okfn.de
+https://www.wikimedia.de
+
+---
+
+OK Lab Berlin:
 https://codefor.de/berlin
 https://meet.okfn.de/ok-lab-berlin
 
