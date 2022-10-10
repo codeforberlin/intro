@@ -1,3 +1,27 @@
+class: middle, center, nonumber
+
+![codefor.de](img/CFG_logo.svg)
+
+## Welcome to the Berlin Open Knowledge Lab
+
+.list[
+* we start at 19:00
+]
+
+---
+
+class: middle, center, nonumber
+
+![codefor.de](img/CFG_logo.svg)
+
+## Welcome to the Berlin Open Knowledge Lab
+
+.list[
+* we start in a few minutes
+]
+
+---
+
 class: center, middle, nonumber
 
 ![codefor.de](img/CFG_logo.svg)
@@ -55,13 +79,11 @@ We use different formats to .red.b[reach people] and educate them about Open Dat
 * every second Monday of the month
 * [bbb.ulm.dev/b/ok-lab-berlin](https://bbb.ulm.dev/b/ok-lab-berlin)
 
-#### Berlin open data day
+#### Berlin Open Data Day
 
 * once a year, first Saturday in March
 
 ---
-
-exclude: true
 
 <style>
 .abs.corona {
@@ -76,7 +98,7 @@ exclude: true
 
 #### Hacknights
 
-* Monday, .red.b[18:00-20:00]
+* Monday, 19:00-20:00
 * [meet.okfn.de/ok-lab-berlin](https://meet.okfn.de/ok-lab-berlin)
 
 #### Open Lab
@@ -84,15 +106,17 @@ exclude: true
 * every second Monday of the month
 * [bbb.ulm.dev/b/ok-lab-berlin](https://bbb.ulm.dev/b/ok-lab-berlin)
 
-#### ~~Berlin open data day~~
+#### ~~Berlin~~ Open Data Day
 
-* ~~once a year, first Saturday in March~~
+* https://opendataday.org/de/
 
 .ref[
     Photo by <a href="https://unsplash.com/@cdc">CDC</a> on <a href="https://unsplash.com/s/photos/corona">Unsplash</a>
 ]
 
 ---
+
+exclude: true
 
 background-image: url(img/berlin-map.png)
 
@@ -160,12 +184,13 @@ exclude: true
 
 <style>
 .web img {
-    margin-bottom: -1rem;
-    height: 7rem;
+    margin-bottom: -2rem;
+    height: 6rem;
 }
 .communication img {
-    margin-top: 1rem;
-    height: 5rem;
+    margin-top: 0rem;
+    margin-bottom: -2rem;
+    height: 4rem;
 }
 </style>
 
@@ -175,13 +200,13 @@ exclude: true
 
 .communication[![slack](img/slack.png)]
 
-[openknowledgegermany.slack.com](https://openknowledgegermany.slack.com) (ask us for an invite)
+[openknowledgegermany.slack.com](https://openknowledgegermany.slack.com) (ask us for an invite using the chat)
 
 .communication[![octocat](img/Octocat.png) ![github](img/GitHub_Logo.png)]
 
 [github.com/codeforberlin](https://github.com/codeforberlin)
 
-<!-- In 2021 we want to learn more about .cyan.b[semantic web] and try to make already public data sets available in a .green.b[best practice] way. -->
+In 2022 we want to learn more about .cyan.b[semantic web] and try to make already public data sets available in a .green.b[best practice] way.
 
 ---
 
