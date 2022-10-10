@@ -2,7 +2,7 @@ class: middle, center, nonumber
 
 ![codefor.de](img/CFG_logo.svg)
 
-## Welcome to the Berlin Open Knowledge Lab
+## Open Lab
 
 .list[
 * we start at 19:00
@@ -14,7 +14,7 @@ class: middle, center, nonumber
 
 ![codefor.de](img/CFG_logo.svg)
 
-## Welcome to the Berlin Open Knowledge Lab
+## Open Lab
 
 .list[
 * we start in a few minutes
@@ -28,32 +28,62 @@ class: center, middle, nonumber
 
 .vspace[]
 
-# Open Knowledge Lab Berlin
-
 ## Introduction
+
+---
+
+## Who are we?
+
+Code for Germany connects people with .blue.b[similar interests from very different fields] who are committed to .red.b[Free and Open Software], .green.b[Open Data] and .cyan.b[Open Government].
+
+We are .blue.b[open government experts], .red.b[software developers], .green.b[designers], and other activists, who work as volunteers for a .cyan.b[sustainable digital transformation in politics and administration].
+
+We are organized .blue.b[in over 20 local OK Labs] in Germany and aim to connect .red.b[the community] with the .green.b[local government] and act as contact for the .cyan.b[different stakeholders].
 
 ---
 
 <style>
 .abs.open {
-    right: 4rem;
-    width: 20rem;
+    right: 3rem;
+    width: 22rem;
 }
 .column.oklab {
     width: 44rem;
 }
 </style>
 
-## Open Knowledge Lab Berlin
+## How do we work?
 
 .abs.open[![codefor.de](img/open.png)]
 
 .column.oklab[
-In the OK Lab, we work on .red.b[digital tools]  utilizing Open Data from .blue.b[public entities], .green.b[community projects], and .cyan.b[companies].
+We identify .blue.b[human needs] in the digital world and scrutinize technological developments for their .red.b[benefit to society].
 
-We also .red.b[connect] the community with the local government and act as contact for the different stakeholders.
+With our volunteer network, we develop .green.b[open source software] and .cyan.b[liberate data]!
 
-We use different formats to .red.b[reach people] and educate them about Open Data and Civic Tech.
+We want to shape the .blue.b[open and sustainable digital transformation] from within society - for a world in which the possibilities of digitization benefit .red.b[everyone].
+]
+
+---
+
+background-image: url(img/germany-map.png)
+background-size: contain
+
+---
+
+<style>
+.codeforall {
+    top: 8rem;
+    left: 0;
+}
+</style>
+
+## Code for all
+
+.abs.codeforall[![codeforall](img/codeforall.png)]
+
+.ref[
+    [codeforall.org](https://codeforall.org)
 ]
 
 ---
@@ -86,181 +116,32 @@ We use different formats to .red.b[reach people] and educate them about Open Dat
 ---
 
 <style>
-.abs.corona {
-    right: 4rem;
-    width: 27rem;
-}
-</style>
-
-## Open Knowledge Lab Berlin
-
-.abs.wurst[![codefor.de](img/corona.jpg)]
-
-#### Hacknights
-
-* Monday, 19:00-20:00
-* [meet.okfn.de/ok-lab-berlin](https://meet.okfn.de/ok-lab-berlin)
-
-#### Open Lab
-
-* every second Monday of the month
-* [bbb.ulm.dev/b/ok-lab-berlin](https://bbb.ulm.dev/b/ok-lab-berlin)
-
-#### ~~Berlin~~ Open Data Day
-
-* https://opendataday.org/de/
-
-.ref[
-    Photo by <a href="https://unsplash.com/@cdc">CDC</a> on <a href="https://unsplash.com/s/photos/corona">Unsplash</a>
-]
-
----
-
-exclude: true
-
-background-image: url(img/berlin-map.png)
-
-.ref[
-    [© OpenStreetMap contributors](https://www.openstreetmap.org/copyright)
-]
-
----
-
-exclude: true
-
-.vspace[]
-.center.w100.shadow[![codefor.de](img/jedeschule.png)]
-
-.ref[
-    [jedeSchule.de](https://jedeschule.de), [github.com/datenschule](https://github.com/datenschule)
-]
-
----
-
-exclude: true
-
-.vspace[]
-.center.w100.shadow[![codefor.de](img/geoportal.png)]
-
-.ref[
-    [Daten aus dem Geoportal Berlin](https://www.codefor.de/projekte/fis-broker/), [berlin.codefor.de/maps](https://berlin.codefor.de/maps/), [berlin.codefor.de/luftbilder](https://berlin.codefor.de/luftbilder/)
-]
-
----
-
-exclude: true
-
-.vspace[]
-.vspace[]
-.center.w75.shadow[![codefor.de](img/vbb-cli.png)]
-
-.ref[
-    [VBB-API-Schnittstelle](https://codefor.de/projekte/vbb-api/), [Übersicht über JavaScript-VBB-Module](https://github.com/derhuerst/vbb-modules)
-]
-
----
-
-exclude: true
-
-.vspace[]
-.center.w100.shadow[![codefor.de](img/wo-ist-markt.png)]
-
-.ref[
-    [Wo ist Markt?](https://codefor.de/projekte/be-woistmarkt/), [wo-ist-markt.de](https://wo-ist-markt.de), [github.com/wo-ist-markt](https://github.com/wo-ist-markt)
-]
-
----
-
-exclude: true
-
-.vspace[]
-.center.w100.shadow[![codefor.de](img/wo-ist-testzentrum.png)]
-
-.ref[
-    [wo-ist-markt.de](https://wo-ist-testzentrum.de), [github.com/wo-ist-testzentrum](https://github.com/CodeforLeipzig/wo-ist-testzentrum)
-]
-
----
-
-<style>
 .web img {
+    margin-top: 1rem;
     margin-bottom: -2rem;
     height: 6rem;
 }
 .communication img {
-    margin-top: 0rem;
+    margin-top: 2rem;
     margin-bottom: -2rem;
     height: 4rem;
 }
 </style>
 
-.web[![web](img/wurst.png)]
+.communication[![CFG](img/CFG_logo.svg)]
 
-[codefor.de/berlin](https://codefor.de/berlin), [Get Together](https://gettogether.community/code-for-berlin/), [meetup](https://www.meetup.com/OK-Lab-Berlin/), [@codeforbe](https://twitter.com/codeforbe)
+[codefor.de](https://codefor.de), [@codeforde](https://twitter.com/codeforde)
 
 .communication[![slack](img/slack.png)]
 
 [openknowledgegermany.slack.com](https://openknowledgegermany.slack.com) (ask us for an invite using the chat)
 
-.communication[![octocat](img/Octocat.png) ![github](img/GitHub_Logo.png)]
+.web[![web](img/wurst.png)]
 
-[github.com/codeforberlin](https://github.com/codeforberlin)
-
-In 2022 we want to learn more about .cyan.b[semantic web] and try to make already public data sets available in a .green.b[best practice] way.
-
----
-
-background-image: url(img/germany-map.png)
-background-size: contain
-
----
-
-<style>
-.codeforall {
-    top: 8rem;
-    left: 0;
-}
-</style>
-
-## Code for all
-
-.abs.codeforall[![codeforall](img/codeforall.png)]
-
-.ref[
-    [codeforall.org](https://codeforall.org)
-]
-
----
-
-<style>
-.okf {
-    top: 12rem;
-    left: 6rem;
-    width: 30rem;
-    text-align: center;
-}
-.wikimedia {
-    top: 8rem;
-    right: 12rem;
-    width: 20rem;
-    text-align: center;
-}
-</style>
-
-## Support
-
-.abs.okf[
-    ![okf](img/logo_black_okfde.png)  
-    [Open Knowledge Foundation](https://okfn.de)
-]
-
-.abs.wikimedia[
-    ![wikimedia](img/Wikimedia-logo.svg)  
-    [Wikimedia Deutschland](https://www.wikimedia.de)
-]
+[codefor.de/berlin](https://codefor.de/berlin), [meetup](https://www.meetup.com/OK-Lab-Berlin/), [@codeforbe](https://twitter.com/codeforbe), [github.com/codeforberlin](https://github.com/codeforberlin)
 
 ---
 
 class: center, middle, nonumber
 
-![codefor.de](img/wurst.png)
+![CFG](img/CFG_logo.svg)
