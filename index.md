@@ -93,52 +93,67 @@ background-size: contain
     right: 4rem;
     width: 27rem;
 }
+.web img {
+    margin-top: 1rem;
+    margin-bottom: -2rem;
+    height: 6rem;
+}
+.slack p {
+    margin-bottom: 0;
+}
+.slack img {
+    margin-top: 0,5rem;
+    height: 2rem;
+}
 </style>
 
 ## Open Knowledge Lab Berlin
 
 .abs.wurst[![codefor.de](img/wurst.png)]
 
-#### Hacknights
-
-* Monday, 19:00-22:00
+* Open Lab every 2nd Monday of the month
+* 19:00-22:00
 * WikiBär, Köpenicker Straße 45
+* [meetup.com](https://www.meetup.com/OK-Lab-Berlin/), 
+  [gettogether.community](https://gettogether.community/code-for-berlin/)
 
-#### Open Lab
+.slack[
+    ![slack](img/slack.png)  
+    [openknowledgegermany.slack.com](https://openknowledgegermany.slack.com)  
+]
 
-* every second Monday of the month
-* [bbb.ulm.dev/b/ok-lab-berlin](https://bbb.ulm.dev/b/ok-lab-berlin)
-
-#### Berlin Open Data Day
-
-* once a year, first Saturday in March
+[codefor.de](https://codefor.de), [codefor.de/berlin](https://codefor.de/berlin)    
+[@codeforde@chaos.social](https://https://chaos.social/@codeforbe)  
+[github.com/codeforberlin](https://github.com/codeforberlin)  
 
 ---
 
 <style>
-.web img {
-    margin-top: 1rem;
-    margin-bottom: -2rem;
-    height: 6rem;
+.okf {
+    top: 12rem;
+    left: 6rem;
+    width: 30rem;
+    text-align: center;
 }
-.communication img {
-    margin-top: 2rem;
-    margin-bottom: -2rem;
-    height: 4rem;
+.wikimedia {
+    top: 8rem;
+    right: 12rem;
+    width: 20rem;
+    text-align: center;
 }
 </style>
 
-.communication[![CFG](img/CFG_logo.svg)]
+## Support
 
-[codefor.de](https://codefor.de), [@codeforde](https://twitter.com/codeforde)
+.abs.okf[
+    ![okf](img/logo_black_okfde.png)  
+    [Open Knowledge Foundation](https://okfn.de)
+]
 
-.communication[![slack](img/slack.png)]
-
-[openknowledgegermany.slack.com](https://openknowledgegermany.slack.com) (ask us for an invite using the chat)
-
-.web[![web](img/wurst.png)]
-
-[codefor.de/berlin](https://codefor.de/berlin), [meetup](https://www.meetup.com/OK-Lab-Berlin/), [@codeforbe](https://twitter.com/codeforbe), [github.com/codeforberlin](https://github.com/codeforberlin)
+.abs.wikimedia[
+    ![wikimedia](img/Wikimedia-logo.svg)  
+    [Wikimedia Deutschland](https://www.wikimedia.de)
+]
 
 ---
 
