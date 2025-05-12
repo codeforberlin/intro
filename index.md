@@ -1,16 +1,16 @@
-class: middle, center, nonumber
+class: middle, center
 
 ![codefor.de](img/CFG_logo.svg)
 
 ## Open Lab
 
 .list[
-* we start at 19:00
+* we start at 20:00
 ]
 
 ---
 
-class: middle, center, nonumber
+class: middle, center
 
 ![codefor.de](img/CFG_logo.svg)
 
@@ -22,23 +22,13 @@ class: middle, center, nonumber
 
 ---
 
-class: center, middle, nonumber
+class: center, middle
 
 ![codefor.de](img/CFG_logo.svg)
 
 .vspace[]
 
 ## Introduction
-
----
-
-## Who are we?
-
-Code for Germany connects people with .blue.b[similar interests from very different fields] who are committed to .red.b[Free and Open Software], .green.b[Open Data] and .cyan.b[Open Government].
-
-We are .blue.b[open government experts], .red.b[software developers], .green.b[designers], and other activists, who work as volunteers for a .cyan.b[sustainable digital transformation in politics and administration].
-
-We are organized .blue.b[in over 20 local OK Labs] in Germany and aim to connect .red.b[the community] with the .green.b[local government] and act as contact for the .cyan.b[different stakeholders].
 
 ---
 
@@ -52,7 +42,7 @@ We are organized .blue.b[in over 20 local OK Labs] in Germany and aim to connect
 }
 </style>
 
-## How do we work?
+## Code for Germany
 
 .abs.open[![codefor.de](img/open.png)]
 
@@ -66,25 +56,18 @@ We want to shape the .blue.b[open and sustainable digital transformation] from w
 
 ---
 
-background-image: url(img/germany-map.png)
-background-size: contain
+## Who are we?
+
+Code for Germany connects people with .blue.b[similar interests] who are committed to .red.b[Free and Open Software], .green.b[Open Data] and .cyan.b[Open Government].
+
+We are .blue.b[open government experts], .red.b[software developers], .green.b[designers], and other activists, who work as volunteers for a .cyan.b[sustainable digital transformation in politics and administration].
+
+We are organized .blue.b[local OK Labs] in Germany and aim to connect .red.b[the community] with the .green.b[local government] and act as contact for the .cyan.b[different stakeholders].
 
 ---
 
-<style>
-.codeforall {
-    top: 8rem;
-    left: 0;
-}
-</style>
-
-## Code for all
-
-.abs.codeforall[![codeforall](img/codeforall.png)]
-
-.ref[
-    [codeforall.org](https://codeforall.org)
-]
+background-image: url(img/germany-map.png)
+background-size: contain
 
 ---
 
@@ -112,8 +95,11 @@ background-size: contain
 .abs.wurst[![codefor.de](img/wurst.png)]
 
 * Open Lab every 2nd Monday of the month
-* 19:00-22:00
-* WikiBär, Köpenicker Straße 45
+* 18:00-22:00
+* [WikiBär](https://de.wikipedia.org/wiki/Wikipedia:WikiB%C3%A4r), Köpenicker Straße 45
+* [codefor.de/berlin](https://codefor.de/berlin)  
+* [@codeforde@chaos.social](https://https://chaos.social/@codeforbe)  
+* [github.com/codeforberlin](https://github.com/codeforberlin) 
 * [meetup.com](https://www.meetup.com/OK-Lab-Berlin/), 
   [gettogether.community](https://gettogether.community/code-for-berlin/)
 
@@ -122,9 +108,30 @@ background-size: contain
     [openknowledgegermany.slack.com](https://openknowledgegermany.slack.com)  
 ]
 
-[codefor.de](https://codefor.de), [codefor.de/berlin](https://codefor.de/berlin)    
-[@codeforde@chaos.social](https://https://chaos.social/@codeforbe)  
-[github.com/codeforberlin](https://github.com/codeforberlin)  
+---
+
+background-image: url(img/luftbilder.png)
+background-size: contain
+
+---
+
+background-image: url(img/jedeschule.png)
+background-size: contain
+
+---
+
+background-image: url(img/we-count.png)
+background-size: contain
+
+---
+
+background-image: url(img/cross-border-routing.png)
+background-size: contain
+
+---
+
+background-image: url(img/stolpersteine.png)
+background-size: contain
 
 ---
 
@@ -157,6 +164,6 @@ background-size: contain
 
 ---
 
-class: center, middle, nonumber
+class: center, middle
 
 ![CFG](img/CFG_logo.svg)

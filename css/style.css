@@ -109,7 +109,7 @@ span.grey {
 .b {
     font-weight: bold;
 }
-.nonumber .remark-slide-number {
+.remark-slide-number {
     opacity: 0;
 }
 
