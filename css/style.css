@@ -60,6 +60,14 @@ a, a:hover, a:visited, a:focus {
     width: 100%;
     display: block;
 }
+.screen {
+    width: 100%;
+    margin-top: -30px;
+}
+.screen p,
+.screen img {
+    max-height: 600px;
+}
 .shadow img {
     box-shadow: 0 0 5px silver;
 }
@@ -111,9 +119,4 @@ span.grey {
 }
 .remark-slide-number {
     opacity: 0;
-}
-
-.project-image {
-    display: block;
-    height: 400px;
 }

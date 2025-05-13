@@ -66,8 +66,9 @@ We are organized .blue.b[local OK Labs] in Germany and aim to connect .red.b[the
 
 ---
 
-background-image: url(img/germany-map.png)
-background-size: contain
+.center.screen.shadow[
+![](img/germany-map.png)
+]
 
 ---
 
@@ -110,28 +111,67 @@ background-size: contain
 
 ---
 
-background-image: url(img/luftbilder.png)
-background-size: contain
+.center.shadow.screen[
+![](img/luftbilder.png)
+]
+
+.ref[
+[Daten aus dem Geoportal Berlin](https://codefor.de/projekte/fis-broker/)
+]
 
 ---
 
-background-image: url(img/jedeschule.png)
-background-size: contain
+.center.shadow.screen[
+![](img/jedeschule.png)
+]
+
+.ref[
+[jedeschule.de API](https://codefor.de/projekte/jedeschule-2/)
+]
 
 ---
 
-background-image: url(img/we-count.png)
-background-size: contain
+.center.shadow.screen[
+![](img/we-count.png)
+]
+
+.ref[
+[Berlin zählt Mobilität](https://berlin.adfc.de/artikel/berlin-zaehlt-mobilitaet-adfc-berlin-dlr-rufen-zu-citizen-science-projekt-auf-1/)
+]
 
 ---
 
-background-image: url(img/cross-border-routing.png)
-background-size: contain
+.center.shadow.screen[
+![](img/transitous.png)
+]
+
+.ref[
+[Transitous](https://transitous.org/)
+]
 
 ---
 
-background-image: url(img/stolpersteine.png)
-background-size: contain
+.center.shadow.screen[
+![](img/stolpersteine.png)
+]
+
+.ref[
+[No missing stolpersteine](https://osm-check.chrpaul.de/report/stolpersteine-berlin-complete-by-kiez/)
+]
+
+---
+
+Out in the Open
+---------------
+
+.center.shadow.w75[
+![](img/out-in-the-open.png)
+]
+
+.ref[
+[codefor.de/blog](https://codefor.de/blog/)
+]
+
 
 ---
 
