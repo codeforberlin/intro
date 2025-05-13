@@ -70,6 +70,10 @@ We are organized .blue.b[local OK Labs] in Germany and aim to connect .red.b[the
 ![](img/germany-map.png)
 ]
 
+.ref[
+[codefor.de/community](https://codefor.de/community/)
+]
+
 ---
 
 <style>
