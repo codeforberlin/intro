@@ -156,6 +156,16 @@ We are organized .blue.b[local OK Labs] in Germany and aim to connect .red.b[the
 ---
 
 .center.shadow.screen[
+![](img/bibbot.png)
+]
+
+.ref[
+[BibBot](https://stefanw.github.io/bibbot/)
+]
+
+---
+
+.center.shadow.screen[
 ![](img/stolpersteine.png)
 ]
 
